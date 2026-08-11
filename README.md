@@ -1,4 +1,4 @@
-⚠️ Please note that this repository is only used for testing OpenClawBench and should not be disseminated !!!
+⚠️ Please note that this repository is only used for testing and should not be disseminated !!!
 
 ---
 
